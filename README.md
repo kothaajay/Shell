@@ -1,3 +1,2 @@
 # Shell
-Schell Scripts for change and learning and pull and push, hit
-sfjjnwefln
+Schell Scripts for change and learning and pull and push
